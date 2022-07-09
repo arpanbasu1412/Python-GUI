@@ -26,6 +26,7 @@ def click(event):
         scvalue.set(scvalue.get() + text)
         screen.update()
 
+        
 root = Tk()
 root.geometry("544x655")
 root.title("Calculator")
